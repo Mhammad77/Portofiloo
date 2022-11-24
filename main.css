@@ -1,0 +1,246 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.conteiner{
+    display: flex;
+}
+.conteiner .left{
+    width: 17%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.conteiner .right{
+    width: 83%;
+    height: 100vh;
+   
+  background-color:rgb(244, 238, 238);
+    overflow: auto;
+}
+#images{
+    width: 50%;
+    /* margin: 20px  80px 0px 20px ; */
+    border-radius: 5%;
+
+}
+.portoflio{
+    font-size: 35px;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Template{
+    color: gray;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.left ul li {
+    padding: 8px 8px;
+   width: 80%;
+   padding-left: 20px;
+    padding-left: 20px;
+    list-style: none;
+    border: none;
+   
+}
+.left ul li i{
+    padding-right: 10px;
+}
+.left ul {
+    margin-top: 20px;
+}
+
+.conteiner .left  a {
+    text-decoration: none;
+}
+#filo{
+   
+    color: green;
+} 
+
+.aaa:hover {
+    width: 80%;
+    color: black;
+    background-color: rgb(117, 119, 119);
+   
+   }
+   .MyPortfolio  {
+    font-size: 40px;
+    margin: 10px 0 30px 15px;
+   }
+   .buton{
+    display: flex;
+    padding: 12px;
+   }
+   .buton button{
+    padding: 12px 25px;
+    border: none;
+    margin: 2px;
+
+   }
+   #filt{
+  margin-top: 15px;
+  margin-right: 8px;
+   }
+   #jjj{
+    background-color: black;
+    color: white;
+   }
+   .buton button:hover  {
+    background-color: rgb(170, 166, 166);
+   }
+   
+  #jjj button:hover button {
+    background-color: rgb(170, 166, 166);
+   }
+    
+  .right hr{
+    width: 89%;
+    color: gray;
+    margin-left: 70px;
+    margin-top: 10px;
+    height: 0.8vh;
+    background-color: rgb(159, 158, 158);
+    margin-bottom: 20px;
+  } 
+  
+  
+.glavni{
+    margin: auto;
+    width: 90%;
+
+   
+    display: flex;
+
+    justify-content: space-between ;
+ 
+}
+.coler{
+    width: 33%;
+  
+
+}
+.imjed img{
+    margin-top: 5px;
+    width: 100%;
+}
+.bot{
+    background-color: aliceblue;
+    /* height: 40%; */
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.icon_button{
+    display: flex;
+    font-size: 20px;
+}
+.icon_button i{
+     margin: 5px;
+
+}
+.b1234{
+    
+    justify-content: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.b4321{
+    display: flex;
+
+    justify-content: center;
+   
+}
+.b4321 p {
+    padding: 10px 10px;  
+
+}
+.b4321 p:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.s1{
+  background-color: black;  
+  color: aliceblue;
+}
+.giriil img{
+    width: 48%;
+     */
+
+}
+.about h2{
+    margin-top: 40px;
+}
+.grafa{
+    width: 90%;
+    height: 5%;
+    display: flex;
+  
+    background-color: rgb(116, 0, 0);
+    margin: auto;
+}
+.text h3{
+margin-top: 50px;
+font-size: 20px;
+}
+
+
+    
+    .main{
+        margin: auto;
+        width: 95%;
+      
+    }
+    .teach{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .block{
+        width: 95%;
+    
+        background-color: rgb(173, 168, 168);
+
+    }
+    .popi {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .b1{
+        padding: 8px 16px;
+        text-align: center;
+        width: 95%;
+        background-color:  rgb(107, 108, 109);
+    }
+    
+    .b2{
+        padding: 8px 16px;
+        text-align: center;
+        width: 85%;
+        background-color: rgb(107, 108, 109);
+    }
+    
+    .b3{
+        padding: 8px 16px;
+        text-align: center;
+        width: 80%;
+        background-color:  rgb(107, 108, 109);
+    }
+    .knopka{
+        margin-top: 20px;  
+        margin-bottom: 10px;
+    }
+    .knopka button{
+border: none;
+background-color:rgb(107, 108, 109);
+color: aliceblue;
+padding: 13px 25px;
+    }
+    .knopka button:hover{
+        color: black;
+        background-color: aliceblue;
+    }
+    .charge{
+        font-size: 25px;
+        margin-top: 35px;
+    }
